@@ -6,7 +6,7 @@ print('3.The no. guessed by you and computer should be same inorder to win the g
 # the above lines are rules given to the player
 b=random.randint(1,10)
 cou=1
-while cou<6 :
+while cou<6:
     a = int(input('\nGuess a no. between 1 and 100 : '))
     # The above vaariable a just gives user access to enter a no
     if a==b:
