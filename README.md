@@ -1,4 +1,5 @@
 # no.-_guessing_game
+Simple random function is used in this 
 This game is a game where user will guess a no given by computer.
 The rules are:
 1.You get five chances to guess.
