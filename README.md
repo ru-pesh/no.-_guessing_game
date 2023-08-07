@@ -7,4 +7,4 @@ The rules are:
 3.The no. guessed by you and computer should be same inorder to win the game.
 
 You will be able to see these rules while playing game
-Hope you
+Hope you w
