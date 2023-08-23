@@ -1,5 +1,5 @@
 import random
-# random moduele is importe to make a random guess
+# random moduele is imported to make a random guess
 print('\n\n\n\t\t\tNUMBER GUESSING GAME')
 print('\nRULES:\n1.You get five chances to guess.\n2.you will get hint after your first chance.')
 print('3.The no. guessed by you and computer should be same inorder to win the game.')
