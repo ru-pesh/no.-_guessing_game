@@ -8,7 +8,7 @@ b=random.randint(1,10)
 cou=1
 while cou<6:
     a = int(input('\nGuess a no. between 1 and 100 : '))
-    # The above vaariable a just gives user access to enter a no.
+    # The above vaariable a just gives user access to en a no.
     if a==b:
         print('You guessed it correctly, it\'s:',b,'\nYOU WIN!')
         break
