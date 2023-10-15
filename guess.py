@@ -3,7 +3,7 @@ import random
 print('\n\n\n\t\t\tNUMBER GUESSING GAME')
 print('\nRULES:\n1.You get five chances to guess.\n2.you will get hint after your first chance.')
 print('3.The no. guessed by you and computer should be same inorder to win the game.')
-# the above lines are rules given to play
+# the above lines are rules given to p
 b=random.randint(1,10)
 cou=1
 while cou<6:
