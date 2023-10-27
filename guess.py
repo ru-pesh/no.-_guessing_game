@@ -1,4 +1,4 @@
-import random
+import ran
 # random moduele is imported to make a random guess
 print('\n\n\n\t\t\tNUMBER GUESSING GAME')
 print('\nRULES:\n1.You get five chances to guess.\n2.you will get hint after your first chance.')
